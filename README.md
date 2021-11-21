@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 # 홍정연 포트폴리오
 >캐치 프레이즈
 
-</br>
-
-## :pushpin: Intro
-(여기에 자기 소개)
 
 </br>
 
