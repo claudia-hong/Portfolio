@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 
 ---
-
+<!--
 ### 4. [채팅 구현]()
 > 채팅 구현 (개인 프로젝트)  
 >개발 기간: 2021. ~ 2021.  
@@ -72,5 +72,5 @@ Here are some ideas to get you started:
 > MySQL / Spring Security / 
 >  
 >[프로젝트 상세 설명]() 참고
-
+-->
 
