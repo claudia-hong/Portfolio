@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ### 3. [나의 블로그 만들기](https://github.com/claudiahaa/springboot-project-myBlog)
 > 블로그 기능 구현 (개인 프로젝트)  
->개발 기간: 2021.11.24 ~ 2021.12.31  
+>개발 기간: 2021.11.24 ~ 
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / 
