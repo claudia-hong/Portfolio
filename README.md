@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 홍정연 포트폴리오
-> Keep Going
+> Keep Going!
 
 
 </br>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ### 3. [나의 블로그 만들기](https://github.com/claudiahaa/springboot-project-myBlog)
 > 블로그 기능 구현 (개인 프로젝트)  
->개발 기간: 2021.11.24 ~ 
+>개발 기간: 
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / 
