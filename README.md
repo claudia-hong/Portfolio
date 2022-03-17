@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # 홍정연 포트폴리오
+
+![모토](https://user-images.githubusercontent.com/62270305/158762769-a4002bae-50d6-4362-883b-ce68ff2d8b75.jpg)
+
 > Keep Going
 
 
