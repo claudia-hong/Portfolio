@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 >개발 기간: 2020.4.19 ~ 2020.7.7  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Spring Security / Maven / MyBatis / Oracle / Thymeleaf
+>Clent : HTML, JS, CSS, JQuery, Bootstrap, CKEditor5, Thymeleaf
+>Server : Java 8 / Spring / Spring Security / Maven / MyBatis / EC2 / Oracle / Tomcat / RDS 
 >  
 >[프로젝트 상세 설명](https://github.com/claudiahaa/Final-Project-PM-Service) 참고
 
