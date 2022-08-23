@@ -47,24 +47,12 @@ Here are some ideas to get you started:
 >개발 기간: 2020.4.19 ~ 2020.7.7  
 >  
 >기술 스택:  
->Java 8 / Spring / Spring Security / Maven / MyBatis / Thymeleaf / Oracle / Tomcat / RDS 
+>Java 8 / Spring Boot / Spring Security / Maven / MyBatis / Thymeleaf / Oracle / Tomcat / RDS 
 >  
 >[프로젝트 상세 설명](https://github.com/claudiahaa/Final-Project-PM-Service) 참고
 
 ---
 
-### 3. [나의 블로그 만들기](https://github.com/claudiahaa/springboot-project-myBlog)
-> 블로그 기능 구현 (개인 프로젝트)  
->개발 기간: 
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / 
->MySQL / Spring Security / 
->  
->[프로젝트 상세 설명](https://github.com/claudiahaa/springboot-project-myBlog) 참고
-
-
----
 <!--
 ### 4. [채팅 구현]()
 > 채팅 구현 (개인 프로젝트)  
